@@ -1,0 +1,451 @@
+Name,int_lev,Class,Metric,Value
+Alcryst,10,Tireur d’elite,HP,28
+Alcryst,11.0,Tireur d’elite,HP,29.0
+Alcryst,12.0,Tireur d’elite,HP,30.0
+Alcryst,13.0,Tireur d’elite,HP,31.0
+Alcryst,14.0,Tireur d’elite,HP,31.0
+Alcryst,15.0,Tireur d’elite,HP,32.0
+Alcryst,16.0,Tireur d’elite,HP,33.0
+Alcryst,17.0,Tireur d’elite,HP,34.0
+Alcryst,18.0,Tireur d’elite,HP,34.0
+Alcryst,19.0,Tireur d’elite,HP,35.0
+Alcryst,20.0,Tireur d’elite,HP,36.0
+Alcryst,21.0,Tireur d’elite,HP,37.0
+Alcryst,22.0,Tireur d’elite,HP,37.0
+Alcryst,23.0,Tireur d’elite,HP,38.0
+Alcryst,24.0,Tireur d’elite,HP,39.0
+Alcryst,25.0,Tireur d’elite,HP,40.0
+Alcryst,26.0,Tireur d’elite,HP,40.0
+Alcryst,27.0,Tireur d’elite,HP,41.0
+Alcryst,28.0,Tireur d’elite,HP,42.0
+Alcryst,29.0,Tireur d’elite,HP,43.0
+Alcryst,30.0,Tireur d’elite,HP,43.0
+Panette,16,Axe Fighter,HP,46
+Panette,17.0,Axe Fighter,HP,47.0
+Panette,18.0,Axe Fighter,HP,48.0
+Panette,19.0,Axe Fighter,HP,49.0
+Panette,20.0,Axe Fighter,HP,50.0
+Panette,21.0,Axe Fighter,HP,51.0
+Panette,22.0,Axe Fighter,HP,52.0
+Panette,23.0,Axe Fighter,HP,53.0
+Panette,24.0,Axe Fighter,HP,54.0
+Panette,25.0,Warrior,HP,56.0
+Panette,26.0,Warrior,HP,57.0
+Panette,27.0,Warrior,HP,58.0
+Panette,28.0,Warrior,HP,59.0
+Panette,29.0,Warrior,HP,60.0
+Panette,30.0,Warrior,HP,61.0
+Fogado,17,Cupido,HP,33
+Fogado,18.0,Cupido,HP,34.0
+Fogado,19.0,Cupido,HP,35.0
+Fogado,20.0,Cupido,HP,35.0
+Fogado,21.0,Cupido,HP,36.0
+Fogado,22.0,Cupido,HP,37.0
+Fogado,23.0,Cupido,HP,37.0
+Fogado,24.0,Cupido,HP,38.0
+Fogado,25.0,Cupido,HP,39.0
+Fogado,26.0,Cupido,HP,39.0
+Fogado,27.0,Cupido,HP,40.0
+Fogado,28.0,Cupido,HP,41.0
+Fogado,29.0,Cupido,HP,42.0
+Fogado,30.0,Cupido,HP,42.0
+Alcryst,10,Tireur d’elite,Str,11
+Alcryst,11.0,Tireur d’elite,Str,11
+Alcryst,12.0,Tireur d’elite,Str,12.0
+Alcryst,13.0,Tireur d’elite,Str,12.0
+Alcryst,14.0,Tireur d’elite,Str,13.0
+Alcryst,15.0,Tireur d’elite,Str,13.0
+Alcryst,16.0,Tireur d’elite,Str,13.0
+Alcryst,17.0,Tireur d’elite,Str,14.0
+Alcryst,18.0,Tireur d’elite,Str,14.0
+Alcryst,19.0,Tireur d’elite,Str,15.0
+Alcryst,20.0,Tireur d’elite,Str,15.0
+Alcryst,21.0,Tireur d’elite,Str,15.0
+Alcryst,22.0,Tireur d’elite,Str,16.0
+Alcryst,23.0,Tireur d’elite,Str,16.0
+Alcryst,24.0,Tireur d’elite,Str,17.0
+Alcryst,25.0,Tireur d’elite,Str,17.0
+Alcryst,26.0,Tireur d’elite,Str,17.0
+Alcryst,27.0,Tireur d’elite,Str,18.0
+Alcryst,28.0,Tireur d’elite,Str,18.0
+Alcryst,29.0,Tireur d’elite,Str,19.0
+Alcryst,30.0,Tireur d’elite,Str,19.0
+Panette,16,Axe Fighter,Str,25
+Panette,17.0,Axe Fighter,Str,26.0
+Panette,18.0,Axe Fighter,Str,27.0
+Panette,19.0,Axe Fighter,Str,27.0
+Panette,20.0,Axe Fighter,Str,28.0
+Panette,21.0,Axe Fighter,Str,28.0
+Panette,22.0,Axe Fighter,Str,29.0
+Panette,23.0,Axe Fighter,Str,30.0
+Panette,24.0,Axe Fighter,Str,30.0
+Panette,25.0,Warrior,Str,34.0
+Panette,26.0,Warrior,Str,35.0
+Panette,27.0,Warrior,Str,35.0
+Panette,28.0,Warrior,Str,36.0
+Panette,29.0,Warrior,Str,37.0
+Panette,30.0,Warrior,Str,37.0
+Fogado,17,Cupido,Str,12
+Fogado,18.0,Cupido,Str,12
+Fogado,19.0,Cupido,Str,13.0
+Fogado,20.0,Cupido,Str,13.0
+Fogado,21.0,Cupido,Str,13.0
+Fogado,22.0,Cupido,Str,14.0
+Fogado,23.0,Cupido,Str,14.0
+Fogado,24.0,Cupido,Str,14.0
+Fogado,25.0,Cupido,Str,15.0
+Fogado,26.0,Cupido,Str,15.0
+Fogado,27.0,Cupido,Str,15.0
+Fogado,28.0,Cupido,Str,16.0
+Fogado,29.0,Cupido,Str,16.0
+Fogado,30.0,Cupido,Str,16.0
+Alcryst,10,Tireur d’elite,Mag,2
+Alcryst,11.0,Tireur d’elite,Mag,2
+Alcryst,12.0,Tireur d’elite,Mag,2
+Alcryst,13.0,Tireur d’elite,Mag,2
+Alcryst,14.0,Tireur d’elite,Mag,2
+Alcryst,15.0,Tireur d’elite,Mag,2
+Alcryst,16.0,Tireur d’elite,Mag,2
+Alcryst,17.0,Tireur d’elite,Mag,2
+Alcryst,18.0,Tireur d’elite,Mag,2
+Alcryst,19.0,Tireur d’elite,Mag,2
+Alcryst,20.0,Tireur d’elite,Mag,3.0
+Alcryst,21.0,Tireur d’elite,Mag,3.0
+Alcryst,22.0,Tireur d’elite,Mag,3.0
+Alcryst,23.0,Tireur d’elite,Mag,3.0
+Alcryst,24.0,Tireur d’elite,Mag,3.0
+Alcryst,25.0,Tireur d’elite,Mag,3.0
+Alcryst,26.0,Tireur d’elite,Mag,3.0
+Alcryst,27.0,Tireur d’elite,Mag,3.0
+Alcryst,28.0,Tireur d’elite,Mag,3.0
+Alcryst,29.0,Tireur d’elite,Mag,3.0
+Alcryst,30.0,Tireur d’elite,Mag,4.0
+Panette,16,Axe Fighter,Mag,3
+Panette,17.0,Axe Fighter,Mag,3
+Panette,18.0,Axe Fighter,Mag,3
+Panette,19.0,Axe Fighter,Mag,3
+Panette,20.0,Axe Fighter,Mag,3
+Panette,21.0,Axe Fighter,Mag,3
+Panette,22.0,Axe Fighter,Mag,3
+Panette,23.0,Axe Fighter,Mag,3
+Panette,24.0,Axe Fighter,Mag,3
+Panette,25.0,Warrior,Mag,4
+Panette,26.0,Warrior,Mag,5.0
+Panette,27.0,Warrior,Mag,5.0
+Panette,28.0,Warrior,Mag,5.0
+Panette,29.0,Warrior,Mag,5.0
+Panette,30.0,Warrior,Mag,5.0
+Fogado,17,Cupido,Mag,7
+Fogado,18.0,Cupido,Mag,7
+Fogado,19.0,Cupido,Mag,7
+Fogado,20.0,Cupido,Mag,8.0
+Fogado,21.0,Cupido,Mag,8.0
+Fogado,22.0,Cupido,Mag,8.0
+Fogado,23.0,Cupido,Mag,9.0
+Fogado,24.0,Cupido,Mag,9.0
+Fogado,25.0,Cupido,Mag,9.0
+Fogado,26.0,Cupido,Mag,9.0
+Fogado,27.0,Cupido,Mag,10.0
+Fogado,28.0,Cupido,Mag,10.0
+Fogado,29.0,Cupido,Mag,10.0
+Fogado,30.0,Cupido,Mag,11.0
+Alcryst,10,Tireur d’elite,Dex,17
+Alcryst,11.0,Tireur d’elite,Dex,18.0
+Alcryst,12.0,Tireur d’elite,Dex,18.0
+Alcryst,13.0,Tireur d’elite,Dex,19.0
+Alcryst,14.0,Tireur d’elite,Dex,20.0
+Alcryst,15.0,Tireur d’elite,Dex,20.0
+Alcryst,16.0,Tireur d’elite,Dex,21.0
+Alcryst,17.0,Tireur d’elite,Dex,22.0
+Alcryst,18.0,Tireur d’elite,Dex,23.0
+Alcryst,19.0,Tireur d’elite,Dex,23.0
+Alcryst,20.0,Tireur d’elite,Dex,24.0
+Alcryst,21.0,Tireur d’elite,Dex,25.0
+Alcryst,22.0,Tireur d’elite,Dex,25.0
+Alcryst,23.0,Tireur d’elite,Dex,26.0
+Alcryst,24.0,Tireur d’elite,Dex,27.0
+Alcryst,25.0,Tireur d’elite,Dex,27.0
+Alcryst,26.0,Tireur d’elite,Dex,28.0
+Alcryst,27.0,Tireur d’elite,Dex,29.0
+Alcryst,28.0,Tireur d’elite,Dex,30.0
+Alcryst,29.0,Tireur d’elite,Dex,30.0
+Alcryst,30.0,Tireur d’elite,Dex,31.0
+Panette,16,Axe Fighter,Dex,19
+Panette,17.0,Axe Fighter,Dex,19
+Panette,18.0,Axe Fighter,Dex,20.0
+Panette,19.0,Axe Fighter,Dex,20.0
+Panette,20.0,Axe Fighter,Dex,21.0
+Panette,21.0,Axe Fighter,Dex,21.0
+Panette,22.0,Axe Fighter,Dex,22.0
+Panette,23.0,Axe Fighter,Dex,22.0
+Panette,24.0,Axe Fighter,Dex,23.0
+Panette,25.0,Warrior,Dex,25.0
+Panette,26.0,Warrior,Dex,25.0
+Panette,27.0,Warrior,Dex,26.0
+Panette,28.0,Warrior,Dex,26.0
+Panette,29.0,Warrior,Dex,27.0
+Panette,30.0,Warrior,Dex,27.0
+Fogado,17,Cupido,Dex,17
+Fogado,18.0,Cupido,Dex,17
+Fogado,19.0,Cupido,Dex,18.0
+Fogado,20.0,Cupido,Dex,18.0
+Fogado,21.0,Cupido,Dex,19.0
+Fogado,22.0,Cupido,Dex,19.0
+Fogado,23.0,Cupido,Dex,20.0
+Fogado,24.0,Cupido,Dex,20.0
+Fogado,25.0,Cupido,Dex,21.0
+Fogado,26.0,Cupido,Dex,21.0
+Fogado,27.0,Cupido,Dex,22.0
+Fogado,28.0,Cupido,Dex,22.0
+Fogado,29.0,Cupido,Dex,23.0
+Fogado,30.0,Cupido,Dex,23.0
+Alcryst,10,Tireur d’elite,Spd,12
+Alcryst,11.0,Tireur d’elite,Spd,13.0
+Alcryst,12.0,Tireur d’elite,Spd,13.0
+Alcryst,13.0,Tireur d’elite,Spd,14.0
+Alcryst,14.0,Tireur d’elite,Spd,14.0
+Alcryst,15.0,Tireur d’elite,Spd,15.0
+Alcryst,16.0,Tireur d’elite,Spd,15.0
+Alcryst,17.0,Tireur d’elite,Spd,16.0
+Alcryst,18.0,Tireur d’elite,Spd,16.0
+Alcryst,19.0,Tireur d’elite,Spd,17.0
+Alcryst,20.0,Tireur d’elite,Spd,18.0
+Alcryst,21.0,Tireur d’elite,Spd,18.0
+Alcryst,22.0,Tireur d’elite,Spd,19.0
+Alcryst,23.0,Tireur d’elite,Spd,19.0
+Alcryst,24.0,Tireur d’elite,Spd,20.0
+Alcryst,25.0,Tireur d’elite,Spd,20.0
+Alcryst,26.0,Tireur d’elite,Spd,21.0
+Alcryst,27.0,Tireur d’elite,Spd,21.0
+Alcryst,28.0,Tireur d’elite,Spd,22.0
+Alcryst,29.0,Tireur d’elite,Spd,22.0
+Alcryst,30.0,Tireur d’elite,Spd,23.0
+Panette,16,Axe Fighter,Spd,13
+Panette,17.0,Axe Fighter,Spd,13
+Panette,18.0,Axe Fighter,Spd,14.0
+Panette,19.0,Axe Fighter,Spd,14.0
+Panette,20.0,Axe Fighter,Spd,14.0
+Panette,21.0,Axe Fighter,Spd,15.0
+Panette,22.0,Axe Fighter,Spd,15.0
+Panette,23.0,Axe Fighter,Spd,15.0
+Panette,24.0,Axe Fighter,Spd,16.0
+Panette,25.0,Warrior,Spd,18.0
+Panette,26.0,Warrior,Spd,18.0
+Panette,27.0,Warrior,Spd,19.0
+Panette,28.0,Warrior,Spd,19.0
+Panette,29.0,Warrior,Spd,20.0
+Panette,30.0,Warrior,Spd,20.0
+Fogado,17,Cupido,Spd,18
+Fogado,18.0,Cupido,Spd,19.0
+Fogado,19.0,Cupido,Spd,20.0
+Fogado,20.0,Cupido,Spd,20.0
+Fogado,21.0,Cupido,Spd,21.0
+Fogado,22.0,Cupido,Spd,22.0
+Fogado,23.0,Cupido,Spd,23.0
+Fogado,24.0,Cupido,Spd,23.0
+Fogado,25.0,Cupido,Spd,24.0
+Fogado,26.0,Cupido,Spd,25.0
+Fogado,27.0,Cupido,Spd,26.0
+Fogado,28.0,Cupido,Spd,26.0
+Fogado,29.0,Cupido,Spd,27.0
+Fogado,30.0,Cupido,Spd,28.0
+Alcryst,10,Tireur d’elite,Def,8
+Alcryst,11.0,Tireur d’elite,Def,8
+Alcryst,12.0,Tireur d’elite,Def,9.0
+Alcryst,13.0,Tireur d’elite,Def,9.0
+Alcryst,14.0,Tireur d’elite,Def,10.0
+Alcryst,15.0,Tireur d’elite,Def,10.0
+Alcryst,16.0,Tireur d’elite,Def,11.0
+Alcryst,17.0,Tireur d’elite,Def,11.0
+Alcryst,18.0,Tireur d’elite,Def,11.0
+Alcryst,19.0,Tireur d’elite,Def,12.0
+Alcryst,20.0,Tireur d’elite,Def,12.0
+Alcryst,21.0,Tireur d’elite,Def,13.0
+Alcryst,22.0,Tireur d’elite,Def,13.0
+Alcryst,23.0,Tireur d’elite,Def,14.0
+Alcryst,24.0,Tireur d’elite,Def,14.0
+Alcryst,25.0,Tireur d’elite,Def,15.0
+Alcryst,26.0,Tireur d’elite,Def,15.0
+Alcryst,27.0,Tireur d’elite,Def,16.0
+Alcryst,28.0,Tireur d’elite,Def,16.0
+Alcryst,29.0,Tireur d’elite,Def,16.0
+Alcryst,30.0,Tireur d’elite,Def,17.0
+Panette,16,Axe Fighter,Def,11
+Panette,17.0,Axe Fighter,Def,11
+Panette,18.0,Axe Fighter,Def,12.0
+Panette,19.0,Axe Fighter,Def,12.0
+Panette,20.0,Axe Fighter,Def,12.0
+Panette,21.0,Axe Fighter,Def,13.0
+Panette,22.0,Axe Fighter,Def,13.0
+Panette,23.0,Axe Fighter,Def,13.0
+Panette,24.0,Axe Fighter,Def,14.0
+Panette,25.0,Warrior,Def,15.0
+Panette,26.0,Warrior,Def,15.0
+Panette,27.0,Warrior,Def,16.0
+Panette,28.0,Warrior,Def,16.0
+Panette,29.0,Warrior,Def,17.0
+Panette,30.0,Warrior,Def,17.0
+Fogado,17,Cupido,Def,10
+Fogado,18.0,Cupido,Def,10
+Fogado,19.0,Cupido,Def,11.0
+Fogado,20.0,Cupido,Def,11.0
+Fogado,21.0,Cupido,Def,11.0
+Fogado,22.0,Cupido,Def,12.0
+Fogado,23.0,Cupido,Def,12.0
+Fogado,24.0,Cupido,Def,12.0
+Fogado,25.0,Cupido,Def,13.0
+Fogado,26.0,Cupido,Def,13.0
+Fogado,27.0,Cupido,Def,13.0
+Fogado,28.0,Cupido,Def,14.0
+Fogado,29.0,Cupido,Def,14.0
+Fogado,30.0,Cupido,Def,15.0
+Alcryst,10,Tireur d’elite,Res,5
+Alcryst,11.0,Tireur d’elite,Res,5
+Alcryst,12.0,Tireur d’elite,Res,5
+Alcryst,13.0,Tireur d’elite,Res,5
+Alcryst,14.0,Tireur d’elite,Res,6.0
+Alcryst,15.0,Tireur d’elite,Res,6.0
+Alcryst,16.0,Tireur d’elite,Res,6.0
+Alcryst,17.0,Tireur d’elite,Res,6.0
+Alcryst,18.0,Tireur d’elite,Res,7.0
+Alcryst,19.0,Tireur d’elite,Res,7.0
+Alcryst,20.0,Tireur d’elite,Res,7.0
+Alcryst,21.0,Tireur d’elite,Res,7.0
+Alcryst,22.0,Tireur d’elite,Res,8.0
+Alcryst,23.0,Tireur d’elite,Res,8.0
+Alcryst,24.0,Tireur d’elite,Res,8.0
+Alcryst,25.0,Tireur d’elite,Res,8.0
+Alcryst,26.0,Tireur d’elite,Res,9.0
+Alcryst,27.0,Tireur d’elite,Res,9.0
+Alcryst,28.0,Tireur d’elite,Res,9.0
+Alcryst,29.0,Tireur d’elite,Res,9.0
+Alcryst,30.0,Tireur d’elite,Res,10.0
+Panette,16,Axe Fighter,Res,7
+Panette,17.0,Axe Fighter,Res,7
+Panette,18.0,Axe Fighter,Res,7
+Panette,19.0,Axe Fighter,Res,7
+Panette,20.0,Axe Fighter,Res,7
+Panette,21.0,Axe Fighter,Res,7
+Panette,22.0,Axe Fighter,Res,8.0
+Panette,23.0,Axe Fighter,Res,8.0
+Panette,24.0,Axe Fighter,Res,8.0
+Panette,25.0,Warrior,Res,10.0
+Panette,26.0,Warrior,Res,10.0
+Panette,27.0,Warrior,Res,10.0
+Panette,28.0,Warrior,Res,11.0
+Panette,29.0,Warrior,Res,11.0
+Panette,30.0,Warrior,Res,11.0
+Fogado,17,Cupido,Res,11
+Fogado,18.0,Cupido,Res,11
+Fogado,19.0,Cupido,Res,12.0
+Fogado,20.0,Cupido,Res,12.0
+Fogado,21.0,Cupido,Res,13.0
+Fogado,22.0,Cupido,Res,14.0
+Fogado,23.0,Cupido,Res,14.0
+Fogado,24.0,Cupido,Res,15.0
+Fogado,25.0,Cupido,Res,15.0
+Fogado,26.0,Cupido,Res,16.0
+Fogado,27.0,Cupido,Res,16.0
+Fogado,28.0,Cupido,Res,17.0
+Fogado,29.0,Cupido,Res,17.0
+Fogado,30.0,Cupido,Res,18.0
+Alcryst,10,Tireur d’elite,Lck,8
+Alcryst,11.0,Tireur d’elite,Lck,8
+Alcryst,12.0,Tireur d’elite,Lck,8
+Alcryst,13.0,Tireur d’elite,Lck,8
+Alcryst,14.0,Tireur d’elite,Lck,8
+Alcryst,15.0,Tireur d’elite,Lck,9.0
+Alcryst,16.0,Tireur d’elite,Lck,9.0
+Alcryst,17.0,Tireur d’elite,Lck,9.0
+Alcryst,18.0,Tireur d’elite,Lck,9.0
+Alcryst,19.0,Tireur d’elite,Lck,9.0
+Alcryst,20.0,Tireur d’elite,Lck,10.0
+Alcryst,21.0,Tireur d’elite,Lck,10.0
+Alcryst,22.0,Tireur d’elite,Lck,10.0
+Alcryst,23.0,Tireur d’elite,Lck,10.0
+Alcryst,24.0,Tireur d’elite,Lck,10.0
+Alcryst,25.0,Tireur d’elite,Lck,11.0
+Alcryst,26.0,Tireur d’elite,Lck,11.0
+Alcryst,27.0,Tireur d’elite,Lck,11.0
+Alcryst,28.0,Tireur d’elite,Lck,11.0
+Alcryst,29.0,Tireur d’elite,Lck,11.0
+Alcryst,30.0,Tireur d’elite,Lck,12.0
+Panette,16,Axe Fighter,Lck,11
+Panette,17.0,Axe Fighter,Lck,11
+Panette,18.0,Axe Fighter,Lck,11
+Panette,19.0,Axe Fighter,Lck,11
+Panette,20.0,Axe Fighter,Lck,11
+Panette,21.0,Axe Fighter,Lck,12.0
+Panette,22.0,Axe Fighter,Lck,12.0
+Panette,23.0,Axe Fighter,Lck,12.0
+Panette,24.0,Axe Fighter,Lck,12.0
+Panette,25.0,Warrior,Lck,13.0
+Panette,26.0,Warrior,Lck,14.0
+Panette,27.0,Warrior,Lck,14.0
+Panette,28.0,Warrior,Lck,14.0
+Panette,29.0,Warrior,Lck,14.0
+Panette,30.0,Warrior,Lck,14.0
+Fogado,17,Cupido,Lck,8
+Fogado,18.0,Cupido,Lck,8
+Fogado,19.0,Cupido,Lck,8
+Fogado,20.0,Cupido,Lck,9.0
+Fogado,21.0,Cupido,Lck,9.0
+Fogado,22.0,Cupido,Lck,9.0
+Fogado,23.0,Cupido,Lck,9.0
+Fogado,24.0,Cupido,Lck,10.0
+Fogado,25.0,Cupido,Lck,10.0
+Fogado,26.0,Cupido,Lck,10.0
+Fogado,27.0,Cupido,Lck,10.0
+Fogado,28.0,Cupido,Lck,11.0
+Fogado,29.0,Cupido,Lck,11.0
+Fogado,30.0,Cupido,Lck,11.0
+Alcryst,10,Tireur d’elite,Bld,6
+Alcryst,11.0,Tireur d’elite,Bld,6
+Alcryst,12.0,Tireur d’elite,Bld,6
+Alcryst,13.0,Tireur d’elite,Bld,6
+Alcryst,14.0,Tireur d’elite,Bld,6
+Alcryst,15.0,Tireur d’elite,Bld,6
+Alcryst,16.0,Tireur d’elite,Bld,6
+Alcryst,17.0,Tireur d’elite,Bld,6
+Alcryst,18.0,Tireur d’elite,Bld,6
+Alcryst,19.0,Tireur d’elite,Bld,6
+Alcryst,20.0,Tireur d’elite,Bld,7.0
+Alcryst,21.0,Tireur d’elite,Bld,7.0
+Alcryst,22.0,Tireur d’elite,Bld,7.0
+Alcryst,23.0,Tireur d’elite,Bld,7.0
+Alcryst,24.0,Tireur d’elite,Bld,7.0
+Alcryst,25.0,Tireur d’elite,Bld,7.0
+Alcryst,26.0,Tireur d’elite,Bld,7.0
+Alcryst,27.0,Tireur d’elite,Bld,7.0
+Alcryst,28.0,Tireur d’elite,Bld,7.0
+Alcryst,29.0,Tireur d’elite,Bld,7.0
+Alcryst,30.0,Tireur d’elite,Bld,8.0
+Panette,16,Axe Fighter,Bld,11
+Panette,17.0,Axe Fighter,Bld,11
+Panette,18.0,Axe Fighter,Bld,11
+Panette,19.0,Axe Fighter,Bld,11
+Panette,20.0,Axe Fighter,Bld,12.0
+Panette,21.0,Axe Fighter,Bld,12.0
+Panette,22.0,Axe Fighter,Bld,12.0
+Panette,23.0,Axe Fighter,Bld,12.0
+Panette,24.0,Axe Fighter,Bld,12.0
+Panette,25.0,Warrior,Bld,14.0
+Panette,26.0,Warrior,Bld,14.0
+Panette,27.0,Warrior,Bld,14.0
+Panette,28.0,Warrior,Bld,14.0
+Panette,29.0,Warrior,Bld,14.0
+Panette,30.0,Warrior,Bld,15.0
+Fogado,17,Cupido,Bld,8
+Fogado,18.0,Cupido,Bld,8
+Fogado,19.0,Cupido,Bld,8
+Fogado,20.0,Cupido,Bld,8
+Fogado,21.0,Cupido,Bld,8
+Fogado,22.0,Cupido,Bld,8
+Fogado,23.0,Cupido,Bld,8
+Fogado,24.0,Cupido,Bld,8
+Fogado,25.0,Cupido,Bld,8
+Fogado,26.0,Cupido,Bld,8
+Fogado,27.0,Cupido,Bld,9.0
+Fogado,28.0,Cupido,Bld,9.0
+Fogado,29.0,Cupido,Bld,9.0
+Fogado,30.0,Cupido,Bld,9.0

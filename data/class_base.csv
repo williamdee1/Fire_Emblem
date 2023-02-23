@@ -1,0 +1,55 @@
+﻿Name,Unique,Type,Cat,Pre_req,HP,Str,Mag,Dex,Spd,Def,Res,Lck,Bld
+Thief,,Special,Rng_P,None,22,5,0,10,10,6,2,2,4
+Dancer,,Special,Rng_P,None,21,5,1,8,8,2,5,5,5
+Dragon Child,Alear,Base,None,None,22,6,0,2,7,5,3,2,4
+Noble,Alfred,Base,None,None,24,7,2,6,5,6,4,4,6
+Noble,Celine,Base,None,None,20,5,8,5,8,3,5,4,4
+Lord,Diamant,Base,None,None,23,8,1,7,8,5,3,3,7
+Lord,Alcryst,Base,None,None,21,7,1,10,7,4,3,2,5
+Wing Tamer,Ivy,Base,None,None,20,1,8,4,4,6,8,1,5
+Wing Tamer,Hortensia,Base,None,None,18,0,5,9,8,1,11,6,4
+Sentinel,Timerra,Base,None,None,24,8,1,5,7,8,1,3,4
+Sentinel,Fogado,Base,None,None,21,5,1,9,7,4,3,2,6
+Sword Fighter,,Base,None,None,20,5,0,7,8,3,2,2,5
+Lance Fighter,,Base,None,None,23,7,2,8,6,4,2,2,5
+Axe Fighter,,Base,None,None,26,9,0,5,5,3,1,1,7
+Archer,,Base,None,None,19,6,0,9,5,2,1,2,4
+Sword Armor,,Base,None,None,25,8,0,6,1,12,0,2,7
+Lance Armor,,Base,None,None,25,8,0,6,1,12,0,2,7
+Axe Armor,,Base,None,None,25,8,0,6,1,12,0,2,7
+Sword Cavalier,,Base,None,None,23,6,1,8,7,4,2,2,6
+Lance Cavalier,,Base,None,None,23,6,1,8,7,4,2,2,6
+Axe Cavalier,,Base,None,None,23,6,1,8,7,4,2,2,6
+Mage,,Base,None,None,18,1,7,6,6,1,7,2,4
+Martial Monk,,Base,None,None,18,3,5,6,5,3,8,3,3
+Sword Flier,,Base,None,None,21,5,2,7,9,3,7,3,4
+Lance Flier,,Base,None,None,21,5,2,7,9,3,7,3,4
+Axe Flier,,Base,None,None,21,5,2,7,9,3,7,3,4
+Divine Dragon,Alear,Advanced,Phy,None,24,8,1,4,8,6,5,3,7
+Avenir,Alfred,Advanced,Phy,None,25,8,4,7,6,8,6,6,7
+Vidame,Celine,Advanced,Hyb,None,21,6,9,6,9,4,6,5,5
+Successeur,Diamant,Advanced,Phy,None,25,10,2,8,9,6,3,4,8
+Tireur d’elite,Alcryst,Advanced,Rng_P,None,22,8,1,12,8,6,4,4,6
+Lindwurm,Ivy,Advanced,Rng_M,None,22,2,10,5,5,8,9,1,6
+Sleipnir Rider,Hortensia,Advanced,Rng_M,None,18,1,7,10,10,2,13,8,5
+Picket,Timerra,Advanced,Phy,None,25,9,2,6,9,10,3,4,5
+Cupido,Fogado,Advanced,Hyb,None,23,6,3,10,8,5,5,3,7
+Melusine,Zephia,Advanced,Hyb,None,22,7,8,6,8,6,9,2,6
+Swordmaster,,Advanced,Phy,Sword Fighter,21,6,1,9,11,4,3,4,6
+Hero,,Advanced,Phy,Sword Fighter,23,8,0,8,9,5,2,3,7
+Halberdier,,Advanced,Phy,Lance Fighter,24,9,1,9,7,6,2,3,6
+Royal Knight,,Advanced,Hyb,Lance Fighter,23,7,5,9,8,5,4,5,6
+Berserker,,Advanced,Phy,Axe Fighter,29,13,0,6,6,3,2,2,9
+Warrior,,Advanced,Phy,Axe Fighter,27,12,1,7,7,4,3,2,8
+Sniper,,Advanced,Rng_P,Archer,22,8,1,11,6,3,1,3,5
+Bow Knight,,Advanced,Hyb,Archer,22,7,2,10,8,3,3,3,5
+General,,Advanced,Phy,"Sword Armor, Lance Armor, Axe Armor",28,11,1,7,2,14,1,3,10
+Great Knight,,Advanced,Phy,"Sword Armor, Lance Armor, Axe Armor",26,9,2,8,5,13,2,3,8
+Paladin,,Advanced,Phy,"Sword Cavalier, Lance Cavalier, Axe Cavalier",25,8,2,10,8,6,3,3,7
+Wolf Knight,,Advanced,Rng_P,"Sword Armor, Lance Armor, Axe Armor",23,6,3,9,10,4,4,4,6
+Sage,,Advanced,Rng_M,Mage,20,1,9,8,7,3,9,3,5
+Mage Knight,,Advanced,Hyb,Mage,21,5,7,8,9,3,8,2,6
+Martial Master,,Advanced,Hyb,Martial Monk,22,6,5,6,5,4,7,4,6
+High Priest,,Advanced,Rng_M,Martial Monk,20,3,8,8,6,3,10,5,4
+Griffin Knight,,Advanced,Hyb,"Sword Flier, Lance Flier, Axe Flier",22,7,3,10,11,4,9,5,5
+Wyvern Knight,,Advanced,Phy,"Sword Flier, Lance Flier, Axe Flier",25,9,1,8,9,6,5,3,6
