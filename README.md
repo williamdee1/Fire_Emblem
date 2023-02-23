@@ -4,7 +4,7 @@
 ## Installation:
 Click on "Code" (top right) and download and extract to a local folder on your PC.
  
-The following instructions are to be used within the [Anaconda terminal] (https://docs.anaconda.com/anaconda/user-guide/getting-started/), although there are other ways too, but this is one of the simplest! :)
+The following instructions are to be used within the [Anaconda terminal](https://docs.anaconda.com/anaconda/user-guide/getting-started/), although there are other ways too, but this is one of the simplest! :)
  
  ```.bash
  # ----> Navigate to the folder you downloaded the files to.
@@ -20,7 +20,7 @@ The following instructions are to be used within the [Anaconda terminal] (https:
 
 ```
 # Data Visualization
-The below charts can be loaded and interacted with in the [Data Visualization] (https://github.com/williamdee1/Fire_Emblem/blob/main/Data%20Visualization.ipynb) notebook after following the steps above.
+The below charts can be loaded and interacted with in the [Data Visualization](https://github.com/williamdee1/Fire_Emblem/blob/main/Data%20Visualization.ipynb) notebook after following the steps above.
 
 ## Example bar chart comparison between characters:
 
