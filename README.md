@@ -19,7 +19,9 @@ The following instructions are to be used within the [Anaconda terminal] (https:
  jupyter notebook
 
 ```
- 
+# Data Visualization
+The below charts can be loaded and interacted with in the [Data Visualization] (https://github.com/williamdee1/Fire_Emblem/blob/main/Data%20Visualization.ipynb) notebook after following the steps above.
+
 ## Example bar chart comparison between characters:
 
 <p align="center">
