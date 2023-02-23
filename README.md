@@ -35,4 +35,4 @@ The below charts can be loaded and interacted with in the [Data Visualization](h
 <img src="https://github.com/williamdee1/Fire_Emblem/blob/main/media/scatter_ex.PNG" width=75% height=75% class="center">
 </p>
 
-Hope this helps some people, I had fun making it! Let me know in Issues if there are any problems.
+Hope this helps some people, I had fun making it! Let me know in Issues if there are any problems and please credit this repository if you use them for anything published :)
