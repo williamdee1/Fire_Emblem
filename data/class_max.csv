@@ -1,7 +1,9 @@
 ﻿Name,Unique,HP,Str,Mag,Dex,Spd,Def,Res,Lck,Bld
 Dragon Child,Alear,68,41,25,36,43,35,25,35,13
 Divine Dragon,Alear,68,41,25,36,43,35,25,35,13
-Fell Child,"Alear, Veyle",48,35,48,36,33,25,41,30,11
+Fell Child Veyle,Veyle,48,35,48,36,33,25,41,30,11
+Fell Child Nel,Nel,65,39,30,32,45,33,31,37,13
+Fell Child Rafal,Rafal,76,46,13,30,33,42,20,19,13
 Noble,Alfred,71,45,20,33,35,37,21,45,16
 Avenir,Alfred,71,45,20,33,35,37,21,45,16
 Noble,Celine,56,38,37,29,41,27,35,50,11
@@ -18,7 +20,7 @@ Sentinel,Timerra,63,35,27,47,41,33,26,37,12
 Picket,Timerra,63,35,27,47,41,33,26,37,12
 Sentinel,Fogado,67,35,28,33,49,28,31,33,16
 Cupido,Fogado,67,35,28,33,49,28,31,33,16
-Melusine,Zephia,75,40,39,33,35,27,33,36,12
+Melusine,Zelestia,75,40,39,33,35,27,33,36,12
 Sword Fighter,,67,40,20,37,41,27,22,33,12
 Swordmaster,,67,40,25,44,49,27,26,37,12
 Hero,,75,45,20,37,41,34,22,33,16
@@ -54,3 +56,5 @@ Griffin Knight,,68,40,37,48,49,27,35,35,14
 Wyvern Knight,,83,46,31,43,38,35,22,25,18
 Thief,,60,43,22,51,42,33,23,30,13
 Dancer,,64,36,31,29,43,24,26,39,15
+Enchanter,,53,25,25,43,39,20,22,42,11
+Mage Cannoneer,,73,45,23,43,23,49,24,31,18

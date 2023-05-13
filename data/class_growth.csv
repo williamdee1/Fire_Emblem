@@ -1,7 +1,9 @@
 ﻿Name,Unique,HP,Str,Mag,Dex,Spd,Def,Res,Lck,Bld
 Dragon Child,Alear,10,10,,10,15,10,10,5,5
 Divine Dragon,Alear,10,10,,10,15,15,15,10,5
-Fell Child,"Alear, Veyle",10,10,25,10,5,10,25,,
+Fell Child Veyle,Veyle,10,10,25,10,5,10,25,,
+Fell Child Nel,Nel,10,15,10,10,15,15,15,,5
+Fell Child Rafal,Rafal,15,20,,5,5,20,10,,10
 Noble,Alfred,15,15,,5,5,20,5,15,
 Avenir,Alfred,15,15,,5,10,25,5,20,5
 Noble,Celine,,5,10,5,5,5,10,20,
@@ -18,7 +20,7 @@ Sentinel,Timerra,10,10,,10,5,20,,5,
 Picket,Timerra,10,15,,10,10,20,5,5,5
 Sentinel,Fogado,10,5,,15,15,5,15,,
 Cupido,Fogado,10,5,5,20,20,5,20,,
-Melusine,Zephia,10,10,10,10,15,10,10,,5
+Melusine,Zelestia,10,10,10,10,15,10,10,,5
 Sword Fighter,,10,10,,15,20,,15,10,
 Swordmaster,,10,10,,15,20,,15,15,
 Hero,,15,15,,10,15,,10,15,
@@ -54,3 +56,5 @@ Griffin Knight,,,10,15,15,20,,15,15,
 Wyvern Knight,,20,20,,10,5,20,5,5,5
 Thief,,5,10,,20,15,15,5,15,
 Dancer,,5,10,,5,15,10,20,20,
+Enchanter,,5,15,15,15,10,5,5,15,5
+Mage Cannoneer,,15,10,,15,5,20,5,10,10

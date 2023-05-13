@@ -1,6 +1,9 @@
 ﻿Name,Unique,Type,Cat,Pre_req,HP,Str,Mag,Dex,Spd,Def,Res,Lck,Bld
 Thief,,Special,Rng_P,None,22,5,0,10,10,6,2,2,4
 Dancer,,Special,Rng_P,None,21,5,1,8,8,2,5,5,5
+Fell Child Veyle,Veyle,Base,None,None,20,3,7,4,5,2,7,3,4
+Fell Child Nel,Nel,Base,None,None,20,5,5,5,5,5,5,5,5
+Fell Child Rafal,Rafal,Base,None,None,20,5,5,5,5,5,5,5,5
 Dragon Child,Alear,Base,None,None,22,6,0,2,7,5,3,2,4
 Noble,Alfred,Base,None,None,24,7,2,6,5,6,4,4,6
 Noble,Celine,Base,None,None,20,5,8,5,8,3,5,4,4
@@ -34,7 +37,7 @@ Lindwurm,Ivy,Advanced,Rng_M,None,22,2,10,5,5,8,9,1,6
 Sleipnir Rider,Hortensia,Advanced,Rng_M,None,18,1,7,10,10,2,13,8,5
 Picket,Timerra,Advanced,Phy,None,25,9,2,6,9,10,3,4,5
 Cupido,Fogado,Advanced,Hyb,None,23,6,3,10,8,5,5,3,7
-Melusine,Zephia,Advanced,Hyb,None,22,7,8,6,8,6,9,2,6
+Melusine,Zelestia,Advanced,Hyb,None,22,7,8,6,8,6,9,2,6
 Swordmaster,,Advanced,Phy,Sword Fighter,21,6,1,9,11,4,3,4,6
 Hero,,Advanced,Phy,Sword Fighter,23,8,0,8,9,5,2,3,7
 Halberdier,,Advanced,Phy,Lance Fighter,24,9,1,9,7,6,2,3,6
@@ -53,3 +56,5 @@ Martial Master,,Advanced,Hyb,Martial Monk,22,6,5,6,5,4,7,4,6
 High Priest,,Advanced,Rng_M,Martial Monk,20,3,8,8,6,3,10,5,4
 Griffin Knight,,Advanced,Hyb,"Sword Flier, Lance Flier, Axe Flier",22,7,3,10,11,4,9,5,5
 Wyvern Knight,,Advanced,Phy,"Sword Flier, Lance Flier, Axe Flier",25,9,1,8,9,6,5,3,6
+Enchanter,,Advanced,Hyb,None,20,5,5,5,5,5,5,5,5
+Mage Cannoneer,,Advanced,Hyb,None,20,5,5,5,5,5,5,5,5
